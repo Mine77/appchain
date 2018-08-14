@@ -1,6 +1,6 @@
 # Nervos AppChain
 
-Nervos AppChain is a public permissioned blockchain that provides a high performance application blockchain solution (Layer 2) for Nervos Network.
+`Nervos AppChain` is a public permissioned blockchain that provides a high performance application blockchain solution (Layer 2) for Nervos Network.
 
 Website: http://appchain.nervos.org (Chinese)
 
@@ -8,7 +8,7 @@ Documents: https://docs.nervos.org/nervos-appchain-docs/ (Chinese)
 
 ## Blockchain Kernel
 
-CITA is a high performance permissioned blockchain kernel developed by Cryptape, commissioned by Nervos Foundation. CITA could be used to build a consortium permissioned blockchain or a public permissioned blockchain.
+`CITA` is a high performance permissioned blockchain kernel developed by Cryptape, commissioned by Nervos Foundation. CITA could be used to build a consortium permissioned blockchain or a public permissioned blockchain.
 
 GitHub Repo: https://github.com/cryptape/cita
 
@@ -20,7 +20,7 @@ Whitepaper: https://github.com/cryptape/cita-whitepaper
 
 ### Neuron
 
-Neuron is a DApp browser and a blockchain wallet that supports both AppChain and Ethereum. DApps built on top of an AppChain or Multiple AppChains can be used in Neuron. Users have aboslute safety and seamless interaction experience with Blockchain.
+`Neuron` is a DApp browser and a blockchain wallet that supports both AppChain and Ethereum. DApps built on top of an AppChain or Multiple AppChains can be used in Neuron. Users have aboslute safety and seamless interaction experience with Blockchain.
 
 GitHub Repo (Android): https://github.com/cryptape/neuron-android
 
@@ -30,7 +30,7 @@ Documents: https://docs.nervos.org/neuron-android/(Chinese)
 
 ### Microscope
 
-Microscope is a full-featured blockchain browser platform. With Microscope you can access data of blocks, transactions, account (including contracts) on any specified AppChains, as well as call contract methods and view AppChain's real-time performance index. A cache server is also provided for caching blockchain data. It can be easily deployed to cache data from any specified AppChains for application usage.
+`Microscope` is a full-featured blockchain browser platform. With Microscope you can access data of blocks, transactions, account (including contracts) on any specified AppChains, as well as call contract methods and view AppChain's real-time performance index. A cache server is also provided for caching blockchain data. It can be easily deployed to cache data from any specified AppChains for application usage.
 
 GitHub Repo: https://github.com/cryptape/microscope
 
@@ -40,7 +40,7 @@ Documents: https://cryptape.github.io/microscope/ (Chinese)
 
 ### Rebirth
 
-A blockchain explorer cache server for Appchain.
+`Rebirth` is a blockchain explorer cache server for Appchain.
 
 GitHub Repo: https://github.com/cryptape/re-birth
 
@@ -50,7 +50,7 @@ Documents: https://github.com/cryptape/re-birth/blob/master/README.md
 
 #### js
 
-Nervos.js library is a collection of packages which are `nervos-chain` and `nervos-signer` for the Nervos AppChain ecosystem.
+`Nervos.js` library is a collection of packages which are `nervos-chain` and `nervos-signer` for the Nervos AppChain ecosystem.
 
 `nervos-chain` is a high-order function takes provider and Web3 Class(optional) as inputs, returns nervos-supported web3 instance and has been published at npm.
 
@@ -69,7 +69,7 @@ npm page&Documents: https://www.npmjs.com/package/@nervos/signer
 
 #### java 
 
-Nervosj, originally adapted from Ethereum Web3j, is a Java library for working with Smart Contract and integrating with clients on Nervos network.
+`Nervosj`, originally adapted from Ethereum Web3j, is a Java library for working with Smart Contract and integrating with clients on Nervos network.
 
 GitHub Repo: https://github.com/cryptape/nervosj
 
