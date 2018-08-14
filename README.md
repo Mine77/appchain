@@ -26,7 +26,7 @@ GitHub Repo (Android): https://github.com/cryptape/neuron-android
 
 GitHub Repo (iOS): https://github.com/cryptape/neuron-ios
 
-Documents: https://docs.nervos.org/neuron-android/(Chinese)
+Documents: https://docs.nervos.org/neuron-android/ (Chinese)
 
 ### Microscope
 
