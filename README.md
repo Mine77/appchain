@@ -50,7 +50,7 @@ Documents: https://github.com/cryptape/re-birth/blob/master/README.md
 
 #### js
 
-nervos.js library is a collection of packages which are `nervos-chain` and `nervos-signer` for the Nervos AppChain ecosystem.
+Nervos.js library is a collection of packages which are `nervos-chain` and `nervos-signer` for the Nervos AppChain ecosystem.
 
 `nervos-chain` is a high-order function takes provider and Web3 Class(optional) as inputs, returns nervos-supported web3 instance and has been published at npm.
 
@@ -69,7 +69,7 @@ npm page&Documents: https://www.npmjs.com/package/@nervos/signer
 
 #### java 
 
-nervosj, originally adapted from Ethereum Web3j, is a Java library for working with Smart Contract and integrating with clients on Nervos network.
+Nervosj, originally adapted from Ethereum Web3j, is a Java library for working with Smart Contract and integrating with clients on Nervos network.
 
 GitHub Repo: https://github.com/cryptape/nervosj
 
@@ -87,6 +87,7 @@ GitHub Repo: https://github.com/cryptape/neuron-rfc
 This truffle box is customized for you to work with Nervos AppChain. You can use this box to develop DApps on Nervos AppChain. 
 
 GitHub Repo: https://github.com/cryptape/appchain-truffle-box
+
 Documents:https://github.com/cryptape/appchain-truffle-box/blob/master/README.md
 
 ### Demo DApps
