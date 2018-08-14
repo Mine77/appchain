@@ -4,7 +4,7 @@ Nervos AppChain is a public permissioned blockchain that provides a high perform
 
 Website: http://appchain.nervos.org (Chinese)
 
-Documents: https://docs.nervos.org/Nervos-AppChain-Docs/ (Chinese)
+Documents: https://docs.nervos.org/nervos-appchain-docs/ (Chinese)
 
 ## Blockchain Kernel
 
@@ -22,41 +22,50 @@ Whitepaper: https://github.com/cryptape/cita-whitepaper
 
 Neuron is a DApp browser and a blockchain wallet that supports both AppChain and Ethereum. DApps built on top of an AppChain or Multiple AppChains can be used in Neuron. Users have aboslute safety and seamless interaction experience with Blockchain.
 
-GitHub Repo (Android): https://github.com/cryptape/Neuron-Android
+GitHub Repo (Android): https://github.com/cryptape/neuron-android
 
-GitHub Repo (iOS): https://github.com/cryptape/Neuron-iOS
+GitHub Repo (iOS): https://github.com/cryptape/neuron-ios
 
-Documents: https://docs.nervos.org/Neuron-Android/ (Chinese)
+Documents: https://docs.nervos.org/neuron-android/(Chinese)
 
 ### Microscope
 
-Microscope is a full-featured blockchain browser platform. With Microscope you can access datas of blocks, transactions, account (including contracts) on any specified AppChains, as well as call contract methods and view AppChain's real-time performance index. A cache service is also provided for caching blockchain data. It can be easily deployed to cache data from any specified AppChains for application usage.
+Microscope is a full-featured blockchain browser platform. With Microscope you can access data of blocks, transactions, account (including contracts) on any specified AppChains, as well as call contract methods and view AppChain's real-time performance index. A cache server is also provided for caching blockchain data. It can be easily deployed to cache data from any specified AppChains for application usage.
 
-GitHub Repo: https://github.com/cryptape/Microscope
+GitHub Repo: https://github.com/cryptape/microscope
 
-Cache Service: Rebirth
+Cache Server: Rebirth
 
-Documents: https://docs.nervos.org/Microscope/ (Chinese)
+Documents: https://cryptape.github.io/microscope/ (Chinese)
 
 ### Rebirth
 
-A blockchain explorer cache for Appchain.
+A blockchain explorer cache server for Appchain.
 
-GitHub Repo: https://github.com/cryptape/ReBirth
+GitHub Repo: https://github.com/cryptape/re-birth
 
-Documents: https://github.com/cryptape/ReBirth/blob/master/README.md
+Documents: https://github.com/cryptape/re-birth/blob/master/README.md
 
 ### SDKs
 
 #### js
 
-@nervos/chain is a high-order function takes provider and Web3 Class(optional) as inputs, returns nervos-supported web3 instance.
+nervos.js library is a collection of packages which are `nervos-chain` and `nervos-signer` for the Nervos AppChain ecosystem.
 
-GitHub Repo: https://github.com/cryptape/nervos.js/
+`nervos-chain` is a high-order function takes provider and Web3 Class(optional) as inputs, returns nervos-supported web3 instance and has been published at npm.
 
-npm page: https://www.npmjs.com/package/@nervos/chain
+GitHub Repo: https://github.com/cryptape/nervos.js/tree/develop/packages/nervos-chain
 
-Documents: https://github.com/cryptape/nervos.js/blob/master/packages/nervos-chain/README.md
+npm page&Documents: https://www.npmjs.com/package/@nervos/chain
+
+Documents: https://www.npmjs.com/package/@nervos/chain
+
+`nervos-signer` is for signing transaction for AppChain and also has been published at npm.
+
+GitHub Repo: https://github.com/cryptape/nervos.js/tree/develop/packages/nervos-signer
+
+npm page&Documents: https://www.npmjs.com/package/@nervos/signer
+
 
 #### java 
 
@@ -71,13 +80,14 @@ Documents: https://github.com/cryptape/nervosj/blob/master/README.md  http://doc
 #### draft
 GitHub Repo: https://github.com/cryptape/neuron-rfc
 
-### Utilities
+### Utility tools
 
 #### Truffle box port
 
 This truffle box is customized for you to work with Nervos AppChain. You can use this box to develop DApps on Nervos AppChain. 
 
 GitHub Repo: https://github.com/cryptape/appchain-truffle-box
+Documents:https://github.com/cryptape/appchain-truffle-box/blob/master/README.md
 
 ### Demo DApps
 
@@ -91,5 +101,6 @@ GitHub Repo: https://github.com/cryptape/testnet-faucet-mri
 
 An AppChain DApp running on Neuron. 
 
-https://github.com/CryptapeHackathon/FirstForever
+GitHub Repo:https://github.com/cryptape/dapp-demos/tree/develop/first-forever
+Documents:https://github.com/cryptape/dapp-demos/blob/develop/first-forever/README.md
 
