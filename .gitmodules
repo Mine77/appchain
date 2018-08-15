@@ -1,0 +1,21 @@
+[submodule "neuron-android"]
+	path = neuron-android
+	url = https://github.com/cryptape/neuron-android
+[submodule "nervos.js"]
+	path = nervos.js
+	url = https://github.com/cryptape/nervos.js.git
+[submodule "microscope"]
+	path = microscope
+	url = https://github.com/cryptape/microscope.git
+[submodule "nervosj"]
+	path = nervosj
+	url = https://github.com/cryptape/nervosj.git
+[submodule "appchain-truffle-box"]
+	path = appchain-truffle-box
+	url = https://github.com/cryptape/appchain-truffle-box.git
+[submodule "re-birth"]
+	path = re-birth
+	url = https://github.com/cryptape/re-birth.git
+[submodule "cita"]
+	path = cita
+	url = https://github.com/cryptape/cita.git
