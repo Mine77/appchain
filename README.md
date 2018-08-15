@@ -1,6 +1,6 @@
 # Nervos AppChain
 
-`Nervos AppChain` is a public permissioned blockchain that provides a high performance application blockchain solution (Layer 2) for Nervos Network.
+`Nervos AppChain` is a public permissioned blockchain that provides a high performance application blockchain solution (Layer2) for Nervos Network.
 
 Website: http://appchain.nervos.org (Chinese)
 
@@ -34,13 +34,13 @@ Documents: https://docs.nervos.org/neuron-android/ (Chinese)
 
 GitHub Repo: https://github.com/cryptape/microscope
 
-Cache Server: Rebirth
+Cache Server: ReBirth
 
 Documents: https://cryptape.github.io/microscope/ (Chinese)
 
-### Rebirth
+### ReBirth
 
-`Rebirth` is a blockchain explorer cache server for Appchain.
+`ReBirth` is a blockchain explorer cache server for AppChain.
 
 GitHub Repo: https://github.com/cryptape/re-birth
 
@@ -48,9 +48,9 @@ Documents: https://github.com/cryptape/re-birth/blob/master/README.md
 
 ### SDKs
 
-#### js
+#### JavaScript
 
-`Nervos.js` library is a collection of packages which are `nervos-chain` and `nervos-signer` for the Nervos AppChain ecosystem.
+`nervos.js` library is a collection of packages which are `nervos-chain` and `nervos-signer` for the Nervos AppChain ecosystem.
 
 `nervos-chain` is a high-order function takes provider and Web3 Class(optional) as inputs, returns nervos-supported web3 instance and has been published at npm.
 
@@ -69,7 +69,7 @@ npm page&Documents: https://www.npmjs.com/package/@nervos/signer
 
 #### java 
 
-`Nervosj`, originally adapted from Ethereum Web3j, is a Java library for working with Smart Contract and integrating with clients on Nervos network.
+`nervosj`, originally adapted from Ethereum Web3j, is a Java library for working with Smart Contract and integrating with clients on Nervos network.
 
 GitHub Repo: https://github.com/cryptape/nervosj
 
@@ -77,12 +77,12 @@ Documents: https://github.com/cryptape/nervosj/blob/master/README.md  http://doc
 
 ### Protocols
 
-#### draft
+#### Draft
 GitHub Repo: https://github.com/cryptape/neuron-rfc
 
 ### Utility tools
 
-#### Truffle box port
+#### Truffle Box
 
 This truffle box is customized for you to work with Nervos AppChain. You can use this box to develop DApps on Nervos AppChain. 
 
