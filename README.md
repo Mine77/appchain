@@ -96,7 +96,7 @@ Documents:https://github.com/cryptape/appchain-truffle-box/blob/master/README.md
 
 A web based AppChain testnet token faucet DApp.
 
-GitHub Repo: https://github.com/cryptape/testnet-faucet-mri
+GitHub Repo: https://github.com/cryptape/contract_pub
 
 #### First Forever
 
