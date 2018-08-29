@@ -106,3 +106,10 @@ GitHub Repo:https://github.com/cryptape/dapp-demos/tree/develop/first-forever
 
 Documents:https://github.com/cryptape/dapp-demos/blob/develop/first-forever/README.md
 
+#### Token Factory
+
+The Token Factory can create a simple standard ERC20 token on AppChain.
+
+GitHub Repo:https://github.com/cryptape/dapp-demos/tree/develop/token-factory
+
+Documents:https://github.com/cryptape/dapp-demos/blob/develop/token-factory/README.md
