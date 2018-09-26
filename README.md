@@ -113,11 +113,3 @@ The Token Factory can create a simple standard ERC20 token on AppChain.
 GitHub Repo:https://github.com/cryptape/dapp-demos/tree/develop/token-factory
 
 Documents:https://github.com/cryptape/dapp-demos/blob/develop/token-factory/README.md
-
-#### Drizzle Truffle Box
-
-This demo use drizzle-truffle-box as an example to show you AppChain-Truffle-Migrate can deploy multiple contracts.
-
-GitHub Repo:https://github.com/cryptape/dapp-demos/tree/develop/drizzle
-
-Documents:https://github.com/cryptape/dapp-demos/blob/develop/drizzle/README.md
