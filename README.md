@@ -90,6 +90,20 @@ GitHub Repo: https://github.com/cryptape/appchain-truffle-box
 
 Documents:https://github.com/cryptape/appchain-truffle-box/blob/master/README.md
 
+#### Testnet Faucet
+
+Testnet Faucet dispenses Tokens to developers on AppChain Testnet.
+
+GitHub Repo:https://github.com/cryptape/appchain-testnet-faucet
+
+Documents:https://github.com/cryptape/appchain-testnet-faucet/blob/develop/README.md
+
+#### Neuron Web
+
+GitHub Repo:https://github.com/cryptape/nervos.js/tree/master/packages/neuron-web
+
+Documents:https://github.com/cryptape/nervos.js/blob/master/packages/neuron-web/README.md
+
 ### Demo DApps
 
 #### Testnet Faucet
