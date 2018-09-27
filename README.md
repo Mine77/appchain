@@ -67,7 +67,7 @@ GitHub Repo: https://github.com/cryptape/nervos.js/tree/develop/packages/nervos-
 npm page&Documents: https://www.npmjs.com/package/@nervos/signer
 
 
-#### java 
+#### Java 
 
 `nervosj`, originally adapted from Ethereum Web3j, is a Java library for working with Smart Contract and integrating with clients on Nervos network.
 
@@ -113,3 +113,19 @@ The Token Factory can create a simple standard ERC20 token on AppChain.
 GitHub Repo:https://github.com/cryptape/dapp-demos/tree/develop/token-factory
 
 Documents:https://github.com/cryptape/dapp-demos/blob/develop/token-factory/README.md
+
+#### Nervos API
+
+An interactive demo for most of API methods of nervos.js
+
+GitHub Repo:https://github.com/cryptape/dapp-demos/tree/master/nervos-api
+
+Documents:https://github.com/cryptape/dapp-demos/blob/master/nervos-api/readme.md
+
+#### Pet Shop
+
+A demo shows how to deploy the classic Truffle Box demo pet-shop-box on Nervos AppChain
+
+GitHub Repo:https://github.com/cryptape/dapp-demos/tree/release/pet-shop
+
+Documents:https://github.com/cryptape/dapp-demos/blob/release/pet-shop/README.md
