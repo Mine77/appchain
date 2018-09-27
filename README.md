@@ -98,7 +98,8 @@ GitHub Repo:https://github.com/cryptape/appchain-testnet-faucet
 
 Documents:https://github.com/cryptape/appchain-testnet-faucet/blob/develop/README.md
 
-#### Neuron Web
+#### NeuronWeb
+NeuronWeb is a Chrome extension that can help developers to develop DApps on Nervos AppChain in the manner of MetaMask. DApps developed with NeuronWeb can be used with Neuron directly.
 
 GitHub Repo:https://github.com/cryptape/nervos.js/tree/master/packages/neuron-web
 
