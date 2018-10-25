@@ -67,13 +67,30 @@ GitHub Repo: https://github.com/cryptape/nervos.js/tree/develop/packages/nervos-
 npm page&Documents: https://www.npmjs.com/package/@nervos/signer
 
 
-#### Java 
+#### Java
 
-`nervosj`, originally adapted from Ethereum Web3j, is a Java library for working with Smart Contract and integrating with clients on Nervos network.
+`appchainj`, originally adapted from Ethereum Web3j, is a Java library for working with Smart Contract and integrating with clients on Nervos network.
 
-GitHub Repo: https://github.com/cryptape/nervosj
+GitHub Repo: https://github.com/cryptape/appchainj
 
-Documents: https://github.com/cryptape/nervosj/blob/master/README.md  http://docs.nervos.org/nervosj/
+Documents: https://github.com/cryptape/appchainj/blob/master/README.md  https://docs.nervos.org/appchainj/
+
+
+#### Swift (iOS)
+
+`AppChainSwift` is a native Swift framework for integrating with Nervos AppChain network.
+
+GitHub Repo: https://github.com/cryptape/appchain-swift
+
+Documents: https://github.com/cryptape/appchain-swift/blob/master/README.md
+
+#### Ruby
+
+`NApp.rb` is a Nervos AppChain library for the Ruby language.
+
+GitHub Repo: https://github.com/cryptape/napp.rb
+
+Documents: https://github.com/cryptape/napp.rb/blob/master/README.md
 
 ### Protocols
 
@@ -84,7 +101,7 @@ GitHub Repo: https://github.com/cryptape/neuron-rfc
 
 #### Truffle Box
 
-This truffle box is customized for you to work with Nervos AppChain. You can use this box to develop DApps on Nervos AppChain. 
+This truffle box is customized for you to work with Nervos AppChain. You can use this box to develop DApps on Nervos AppChain.
 
 GitHub Repo: https://github.com/cryptape/appchain-truffle-box
 
@@ -111,11 +128,11 @@ Documents:https://github.com/cryptape/nervos.js/blob/master/packages/neuron-web/
 
 A web based AppChain testnet token faucet DApp.
 
-GitHub Repo: https://github.com/cryptape/contract_pub
+GitHub Repo: https://github.com/cryptape/appchain-testnet-faucet
 
 #### First Forever
 
-An AppChain DApp running on Neuron. 
+An AppChain DApp running on Neuron.
 
 GitHub Repo:https://github.com/cryptape/dapp-demos/tree/develop/first-forever
 
