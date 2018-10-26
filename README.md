@@ -86,11 +86,11 @@ Documents: https://github.com/cryptape/appchain-swift/blob/master/README.md
 
 #### Ruby
 
-`NApp.rb` is a Nervos AppChain library for the Ruby language.
+`AppChain.rb` is a Nervos AppChain library for the Ruby language.
 
-GitHub Repo: https://github.com/cryptape/napp.rb
+GitHub Repo: https://github.com/cryptape/appchain.rb
 
-Documents: https://github.com/cryptape/napp.rb/blob/master/README.md
+Documents: https://github.com/cryptape/appchain.rb/blob/master/README.md
 
 ### Protocols
 
