@@ -50,21 +50,21 @@ Documents: https://github.com/cryptape/re-birth/blob/master/README.md
 
 #### JavaScript
 
-`nervos.js` library is a collection of packages which are `nervos-chain` and `nervos-signer` for the Nervos AppChain ecosystem.
+`appchain.js` library is a collection of packages which are `appchain-base` and `appchain-signer` for the Nervos AppChain ecosystem.
 
-`nervos-chain` is a high-order function takes provider and Web3 Class(optional) as inputs, returns nervos-supported web3 instance and has been published at npm.
+`appchain-base` is a high-order function takes provider and Web3 Class(optional) as inputs, returns nervos-supported web3 instance and has been published at npm.
 
-GitHub Repo: https://github.com/cryptape/nervos.js/tree/develop/packages/nervos-chain
+GitHub Repo: https://github.com/cryptape/appchain.js/tree/develop/packages/appchain-base
 
-npm page&Documents: https://www.npmjs.com/package/@nervos/chain
+npm page&Documents: https://www.npmjs.com/package/@appchain/base
 
-Documents: https://www.npmjs.com/package/@nervos/chain
+Documents: https://www.npmjs.com/package/@appchain/base
 
-`nervos-signer` is for signing transaction for AppChain and also has been published at npm.
+`appchain-signer` is for signing transaction for AppChain and also has been published at npm.
 
-GitHub Repo: https://github.com/cryptape/nervos.js/tree/develop/packages/nervos-signer
+GitHub Repo: https://github.com/cryptape/appchain.js/tree/develop/packages/appchain-signer
 
-npm page&Documents: https://www.npmjs.com/package/@nervos/signer
+npm page&Documents: https://www.npmjs.com/package/@appchain/signer
 
 
 #### Java
