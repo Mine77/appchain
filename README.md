@@ -50,30 +50,47 @@ Documents: https://github.com/cryptape/re-birth/blob/master/README.md
 
 #### JavaScript
 
-`nervos.js` library is a collection of packages which are `nervos-chain` and `nervos-signer` for the Nervos AppChain ecosystem.
+`appchain.js` library is a collection of packages which are `appchain-base` and `appchain-signer` for the Nervos AppChain ecosystem.
 
-`nervos-chain` is a high-order function takes provider and Web3 Class(optional) as inputs, returns nervos-supported web3 instance and has been published at npm.
+`appchain-base` is a high-order function takes provider and Web3 Class(optional) as inputs, returns nervos-supported web3 instance and has been published at npm.
 
-GitHub Repo: https://github.com/cryptape/nervos.js/tree/develop/packages/nervos-chain
+GitHub Repo: https://github.com/cryptape/appchain.js/tree/develop/packages/appchain-base
 
-npm page&Documents: https://www.npmjs.com/package/@nervos/chain
+npm page&Documents: https://www.npmjs.com/package/@appchain/base
 
-Documents: https://www.npmjs.com/package/@nervos/chain
+Documents: https://www.npmjs.com/package/@appchain/base
 
-`nervos-signer` is for signing transaction for AppChain and also has been published at npm.
+`appchain-signer` is for signing transaction for AppChain and also has been published at npm.
 
-GitHub Repo: https://github.com/cryptape/nervos.js/tree/develop/packages/nervos-signer
+GitHub Repo: https://github.com/cryptape/appchain.js/tree/develop/packages/appchain-signer
 
-npm page&Documents: https://www.npmjs.com/package/@nervos/signer
+npm page&Documents: https://www.npmjs.com/package/@appchain/signer
 
 
-#### java 
+#### Java
 
-`nervosj`, originally adapted from Ethereum Web3j, is a Java library for working with Smart Contract and integrating with clients on Nervos network.
+`appchainj`, originally adapted from Ethereum Web3j, is a Java library for working with Smart Contract and integrating with clients on Nervos network.
 
-GitHub Repo: https://github.com/cryptape/nervosj
+GitHub Repo: https://github.com/cryptape/appchainj
 
-Documents: https://github.com/cryptape/nervosj/blob/master/README.md  http://docs.nervos.org/nervosj/
+Documents: https://github.com/cryptape/appchainj/blob/master/README.md  https://docs.nervos.org/appchainj/
+
+
+#### Swift (iOS)
+
+`AppChain Swift` is a native Swift framework for integrating with Nervos AppChain network.
+
+GitHub Repo: https://github.com/cryptape/appchain-swift
+
+Documents: https://github.com/cryptape/appchain-swift/blob/master/README.md
+
+#### Ruby
+
+`AppChain.rb` is a Nervos AppChain library for the Ruby language.
+
+GitHub Repo: https://github.com/cryptape/appchain.rb
+
+Documents: https://github.com/cryptape/appchain.rb/blob/master/README.md
 
 ### Protocols
 
@@ -84,11 +101,34 @@ GitHub Repo: https://github.com/cryptape/neuron-rfc
 
 #### Truffle Box
 
-This truffle box is customized for you to work with Nervos AppChain. You can use this box to develop DApps on Nervos AppChain. 
+This truffle box is customized for you to work with Nervos AppChain. You can use this box to develop DApps on Nervos AppChain.
 
 GitHub Repo: https://github.com/cryptape/appchain-truffle-box
 
 Documents:https://github.com/cryptape/appchain-truffle-box/blob/master/README.md
+
+#### Testnet Faucet
+
+Testnet Faucet dispenses Tokens to developers on AppChain Testnet.
+
+GitHub Repo:https://github.com/cryptape/appchain-testnet-faucet
+
+Documents:https://github.com/cryptape/appchain-testnet-faucet/blob/develop/README.md
+
+#### NeuronWeb
+NeuronWeb is a Chrome extension that can help developers to develop DApps on Nervos AppChain in the manner of MetaMask. DApps developed with NeuronWeb can be used with Neuron directly.
+
+GitHub Repo:https://github.com/cryptape/nervos.js/tree/master/packages/neuron-web
+
+Documents:https://github.com/cryptape/nervos.js/blob/master/packages/neuron-web/README.md
+
+#### AppChain-ide
+AppChain-ide is a browser-based IDE for Nervos AppChain, mostly based on and will keep updating with [Remix](https://github.com/ethereum/remix-ide/).
+
+GitHub Repo:https://github.com/cryptape/appchain-ide
+
+Documents:https://github.com/cryptape/appchain-ide/blob/develop/README.md
+
 
 ### Demo DApps
 
@@ -96,13 +136,36 @@ Documents:https://github.com/cryptape/appchain-truffle-box/blob/master/README.md
 
 A web based AppChain testnet token faucet DApp.
 
-GitHub Repo: https://github.com/cryptape/testnet-faucet-mri
+GitHub Repo: https://github.com/cryptape/appchain-testnet-faucet
 
 #### First Forever
 
-An AppChain DApp running on Neuron. 
+An AppChain DApp running on Neuron.
 
 GitHub Repo:https://github.com/cryptape/dapp-demos/tree/develop/first-forever
 
 Documents:https://github.com/cryptape/dapp-demos/blob/develop/first-forever/README.md
 
+#### Token Factory
+
+The Token Factory can create a simple standard ERC20 token on AppChain.
+
+GitHub Repo:https://github.com/cryptape/dapp-demos/tree/develop/token-factory
+
+Documents:https://github.com/cryptape/dapp-demos/blob/develop/token-factory/README.md
+
+#### Nervos API
+
+An interactive demo for most of API methods of nervos.js
+
+GitHub Repo:https://github.com/cryptape/dapp-demos/tree/master/nervos-api
+
+Documents:https://github.com/cryptape/dapp-demos/blob/master/nervos-api/readme.md
+
+#### Pet Shop
+
+A demo shows how to deploy the classic Truffle Box demo pet-shop-box on Nervos AppChain
+
+GitHub Repo:https://github.com/cryptape/dapp-demos/tree/release/pet-shop
+
+Documents:https://github.com/cryptape/dapp-demos/blob/release/pet-shop/README.md
