@@ -122,6 +122,14 @@ GitHub Repo:https://github.com/cryptape/nervos.js/tree/master/packages/neuron-we
 
 Documents:https://github.com/cryptape/nervos.js/blob/master/packages/neuron-web/README.md
 
+#### AppChain-ide
+AppChain-ide is a browser-based IDE for Nervos AppChain, mostly based on and will keep updating with [Remix](https://github.com/ethereum/remix-ide/).
+
+GitHub Repo:https://github.com/cryptape/appchain-ide
+
+Documents:https://github.com/cryptape/appchain-ide/blob/develop/README.md
+
+
 ### Demo DApps
 
 #### Testnet Faucet
