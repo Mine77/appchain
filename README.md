@@ -78,7 +78,7 @@ Documents: https://github.com/cryptape/appchainj/blob/master/README.md  https://
 
 #### Swift (iOS)
 
-`AppChainSwift` is a native Swift framework for integrating with Nervos AppChain network.
+`AppChain Swift` is a native Swift framework for integrating with Nervos AppChain network.
 
 GitHub Repo: https://github.com/cryptape/appchain-swift
 
